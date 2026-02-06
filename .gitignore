@@ -81,7 +81,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # Rider plugins
-.Plugins/
+Plugins/
 
 ### UnrealEngine ###
 # Visual Studio 2015 user specific files
@@ -158,6 +158,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# StartContent
+/Content/StarterContent/
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
